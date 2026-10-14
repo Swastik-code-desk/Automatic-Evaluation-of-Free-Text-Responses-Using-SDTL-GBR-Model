@@ -1,0 +1,2 @@
+# Automatic-Evaluation-of-Free-Text-Responses-Using-SDTL-GBR-Model
+"An ML-based Automated Short Answer Scoring system using Semantic Dependency Tree Logic and Gradient Boosting. It parses student answers into concept trees, computes Tree Edit Distance and SPO triples, and guarantees strict monotonic grading: identifying missing keywords, awarding zero marks for irrelevancy, and rendering interactive tree graphs."
